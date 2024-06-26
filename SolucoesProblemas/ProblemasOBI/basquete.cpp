@@ -14,6 +14,9 @@ int main(){
         printf("3");
     }
 
+    /*
+    Outro jeito de fazer: printf("%d", D <= 800 ? 1 : (D <= 1400 ? 2 : 3)); apenas essa linha.
+    */
 
     return 0;
 }
